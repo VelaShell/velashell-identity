@@ -15,7 +15,7 @@ VelaShell 生态的 **OIDC 授权服务器**(OpenIddict + MongoDB)。账号、�
   │                              │◀── 拉 JWKS 验签(仅第一次)──┤
 ```
 
-> **2026-08-30 从 [velashell-markets](https://github.com/VelaShellLabs/velashell-markets) 拆出。**
+> **2026-08-30 从 [velashell-markets](https://github.com/VelaShell/velashell-markets) 拆出。**
 > 拆分的理由是它已经不只服务插件市场了:资讯服务在用,以后还会有别的。
 > 一个信任根不该跟着某个业务仓库的发版节奏走。
 
